@@ -872,6 +872,7 @@ models:
         description: Repeat the image to cover the whole area
       - name: ''
         type: string
+        label: ''
   blog_feed_section:
     type: object
     label: Blog feed section
